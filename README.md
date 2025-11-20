@@ -26,7 +26,7 @@
 
 🌐 Connect with Me
 
-.📧Email:dipikarajput@gmail.com  
+.📧Email:dipikarajput706@gmail.com  
 
 .💼LinkedIn: www.linkedin.com/in/dipika-rajput26
 

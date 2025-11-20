@@ -1,36 +1,33 @@
-<h1 align="center">👋 Hi, I'm Dipika Rajput</h1>
+👋 I 'M Dipika Rajput 
+ 
+🌟 IT Student | 💻 Aspiring Python Developer
 
-<p align="center">
-  🌟 IT Student | 💻 Aspiring MERN Stack Developer
-</p>
+-🚀Skills
+- HTML <img src="https://img.icons8.com/color/25/000000/html-5.png"/>
+- CSS ![CSS3](https://img.icons8.com/color/25/000000/css3.png)  
+- Java ![Java](https://img.icons8.com/color/25/000000/java-coffee-cup-logo.png)  
+- JavaScript ![JavaScript](https://img.icons8.com/color/25/000000/javascript.png)  
+- Bootstrap ![Bootstrap](https://img.icons8.com/color/25/bootstrap.png)
+- Python ![Python](https://img.icons8.com/color/25/python.png)
+- SQL ![SQL](https://img.icons8.com/color/25/database.png)
+- MySQL ![MySQL](https://img.icons8.com/color/25/mysql-logo.png)
 
----
 
-## 🚀 Skills
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-%23E34F26?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" />
-</p>
+📌 About Me
+ 
+✨ Currently pursuing IT from Vikram University.
 
----
+🚀 Skilled in **HTML, CSS, Java, JavaScript, Bootstrap, SQL, MySQL and Python.
 
-## 📌 About Me  
-- 🎓 IT Student  
-- 💡 Skilled in **HTML, CSS, Java, JavaScript, and React.js**  
-- 🚀 Learning MERN Stack step-by-step  
-- 🤝 Open to collaborating on beginner-friendly projects  
+📖 Learning step by step to become a Python Developer.
 
----
+🤝 Open to collaboration on beginner-friendly projects.
 
-## 🌐 Connect with Me  
+🌐 Connect with Me
 
-- 📂 **Portfolio:** (आप अपना link यहाँ दें)  
-- 📧 **Email:** (अपना email डालें)  
-- 💼 **LinkedIn:** (आपका LinkedIn link)  
-- 🖥️ **GitHub:** github.com/आपका-username  
+.📧Email:dipikarajput@gmail.com  
 
----
+.💼LinkedIn: www.linkedin.com/in/dipika-rajput26
+
+.💻GitHub:https://github.com/DipikaRajput526

@@ -9,6 +9,7 @@
 - JavaScript ![JavaScript](https://img.icons8.com/color/25/000000/javascript.png)  
 - Bootstrap ![Bootstrap](https://img.icons8.com/color/25/bootstrap.png)
 - Python ![Python](https://img.icons8.com/color/25/python.png)
+- ![Django](https://img.icons8.com/color/48/django.png)
 - SQL ![SQL](https://img.icons8.com/color/25/database.png)
 - MySQL ![MySQL](https://img.icons8.com/color/25/mysql-logo.png)
 
@@ -18,7 +19,7 @@
  
 ✨ Currently pursuing IT from Vikram University.
 
-🚀 Skilled in **HTML, CSS, Java, JavaScript, Bootstrap, SQL, MySQL and Python.
+🚀 Skilled in ***HTML, CSS, Java, JavaScript, Bootstrap, SQL, MySQL, Python & Django***.
 
 📖 Learning step by step to become a Python Developer.
 
@@ -28,6 +29,6 @@
 
 .📧Email:dipikarajput706@gmail.com  
 
-.💼LinkedIn: www.linkedin.com/in/dipika-rajput26
+.💼LinkedIn: www.linkedin.com/in/dipika-rajput526
 
 .💻GitHub:https://github.com/DipikaRajput526
